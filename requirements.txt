@@ -1,0 +1,14 @@
+torch==2.7.1
+torchvision==0.21.0
+xformers==0.0.31
+gradio==4.31.4
+numpy==1.26.4
+pillow==10.2.0
+opencv-python
+matplotlib
+huggingface-hub
+accelerate
+diffusers==0.27.2
+transformers==4.40.1
+peft==0.15.2
+git+https://github.com/crowsonkb/k-diffusion.git
