@@ -7,7 +7,7 @@ pillow==10.2.0
 opencv-python
 matplotlib
 huggingface-hub
-peft
+peft==0.15.2
 accelerate
 diffusers==0.27.2
 transformers==4.40.1
